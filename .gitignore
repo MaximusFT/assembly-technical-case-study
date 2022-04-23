@@ -1,0 +1,29 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+build-admin
+node_modules
+stats.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editors and IDEs
+/out/
+.vscode/
+
+# Cypress
+/cypress/screenshots
+/cypress/videos
+
+# Static Pages
+/static_pages/.cache
+/static_pages/dist
+.eslintcache

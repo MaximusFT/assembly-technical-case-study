@@ -1,0 +1,9 @@
+node_modules/**
+app_web/components/vendors/**
+app_web/static/**
+app_web/biconom/**
+dist/**
+protos/**
+*.spec.js
+jsconfig.json
+src/index.html

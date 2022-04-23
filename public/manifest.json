@@ -1,0 +1,16 @@
+{
+  "name": "GitHub Search — Assembly",
+  "theme_color": "#ffffff",
+  "background_color": "#001529",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "app-icon-512.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}

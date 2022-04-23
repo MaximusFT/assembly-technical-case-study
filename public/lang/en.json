@@ -1,0 +1,17 @@
+{
+  "Common.GitHub": "GitHub Search",
+  "Common.User": "User",
+  "Common.Organization": "Organization",
+  "Common.Search": "Search",
+  "Common.Loading": "Loading",
+  "Common.History": "History",
+  "Common.RepositoryList": "Repository list",
+  "Common.FollowerList": "Follower list",
+  "Common.InputSearchTerm": "Input search term (min 3 letters)",
+  "Common.SearchResults": "Search results",
+  "Common.HistorySearch": "History search",
+  "Common.HistorySearchTerms": "History search terms",
+
+  "LocaleToggle.en": "EN",
+  "LocaleToggle.fr": "FR"
+}
